@@ -1,0 +1,2 @@
+# homebridgesetup
+Current Homebridge config
